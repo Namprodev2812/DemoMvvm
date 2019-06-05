@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">DemoMvvm</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_user">User</string>
+    <string name="text_suggested_song">Suggested song</string>
+    <string name="text_genre">Genres</string>
+    <string name="title_all_music">All music</string>
+    <string name="title_all_audio">All audio</string>
+    <string name="title_rock">Alternative rock</string>
+    <string name="title_ambient">Ambient</string>
+    <string name="title_classical">Classical</string>
+    <string name="title_country">Country</string>
+    <string name="search_music">Search</string>
+    <string name="shuffle">shuffle</string>
+    <string name="number_1">1</string>
+    <string name="sing">Cuoc vui co don</string>
+    <string name="user">Le bao binh</string>
+    <string name="add_favorite">Them vao thu vien</string>
+    <string name="add_now_playing">Them vao danh sach phat</string>
+    <string name="add_play_list">Them vao playlist</string>
+    <string name="download">download</string>
+    <string name="share">chia se </string>
+    <string name="block">chan</string>
 </resources>

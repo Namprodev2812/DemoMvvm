@@ -3,4 +3,9 @@
     <color name="color_primary">#008577</color>
     <color name="color_primary_dark">#00574B</color>
     <color name="color_accent">#D81B60</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_tim">#9C27B0</color>
+    <color name="orange">#FFC107</color>
+    <color name="purple">#9C27B0</color>
 </resources>
